@@ -19,4 +19,4 @@ PseudoChat is an advanced chat suite/IRC pseudo-client relay plugin for the Mine
 None listed yet
 
 ## 4. Help, Bugs, or Suggestions
-For help, reporting a bug, or want to suggest a feature? Please visit our IRC channel at irc.tinycrab.net #ValleyCraft
+For help, reporting a bug, or want to suggest a feature? Please visit our IRC channel at irc.valleynode.net #ValleyNode
